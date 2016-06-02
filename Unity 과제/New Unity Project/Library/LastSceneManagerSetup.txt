@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Tree_Textures/Bridge.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scripts/House.unity
+  isLoaded: 1
+  isActive: 0
